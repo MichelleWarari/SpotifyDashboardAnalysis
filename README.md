@@ -1,4 +1,3 @@
-# SpotifyDashboardAnalysis
 # 🎧 SpotifyDashboardAnalysis
 
 A Power BI dashboard analyzing Spotify listening data from 2013–2024 to provide insights into music preferences and listening behavior over time.
@@ -17,6 +16,7 @@ A Power BI dashboard analyzing Spotify listening data from 2013–2024 to provid
 
 - `Spotify_Analysis.pbix`: Power BI dashboard file with all visuals and data modeling
 - `README.md`: Overview and documentation for the project
+> 📌 Note: GitHub cannot preview `.pbix` files due to their size. Click **"View raw"** to download the file, then open it in **Power BI Desktop**.
 
 ---
 
